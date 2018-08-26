@@ -1,0 +1,1 @@
+const socketManager = require('./src/client');
